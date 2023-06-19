@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Pawani
 
--  I am a second-year undergraduate from Sri Lanka.
+-  I am a fourth-year undergraduate from Sri Lanka.
 - 👀 I’m interested in Mathematics.
-- 🌱 I’m currently learning Front-End frameworks.
+- 🌱 I’m currently learning Automation frameworks.
+- 💻 I want to learn new things.
+  
 
 
 <!---
